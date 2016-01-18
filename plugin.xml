@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <class>org.jivesoftware.openfire.plugin.FileTransferDisablerPlugin</class>
+    <name>FileTransferDisabler</name>
+    <description>Automatically rejects FileTransfer requests</description>
+    <author>Guus der Kinderen</author>
+    <version>2.0.0</version>
+    <date>01/18/2016</date>
+    <url>https://github.com/guusdk/file-trf-dsblr</url>
+    <minServerVersion>3.1.1</minServerVersion>
+</plugin>
